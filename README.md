@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Ashley Hlatshwayo  
 
 🎓 **IT Student** | Major in **Computer Science & Business Management**  
-💻 **Software Developer** |**App, Game & Web Developer** | **Aspiring Cybersecurity Specialist & Mechatronics Innovator**  
+💻 **Software Developer** | **App, Game & Web Developer** | **Aspiring Cybersecurity Specialist & Mechatronics Innovator**  
 
 ---
 
@@ -22,6 +22,13 @@ I’m developing advanced skills in **cybersecurity** and **mechatronics**, in h
 
 ---
 
+## 📊 GitHub Stats
+![Ashirai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashirai29&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashirai29&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashirai29&theme=radical)
+
+---
+
 ## 🎯 Current Goals  
 - 🎮 Release my first indie game  
 - 🌐 Launch my personal portfolio website  
@@ -33,7 +40,8 @@ I’m developing advanced skills in **cybersecurity** and **mechatronics**, in h
 ## 📫 Connect with Me  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashley-ashirai)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](#)    
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashirai29)
+
 📧 **aahlatshwayo10@gmail.com**  
 
 ---
