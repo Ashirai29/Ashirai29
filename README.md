@@ -38,7 +38,7 @@ I’m developing advanced skills in **cybersecurity** and **mechatronics**, in h
 ---
 
 ## 📫 Connect with Me  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)]([https://ashirai29.github.io/Ashirai_Portforlio/](https://ashirai-s-portfolio.vercel.app/))  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ashirai-s-portfolio.vercel.app/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashley-ashirai)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashirai29)
 
